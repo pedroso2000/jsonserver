@@ -1,18 +1,123 @@
 {
-	"posts": [{
+	"posts": [
+		{
 			"id": 1,
 			"title": "hello"
 		}
 	],
-	"get": [{
-			"id": 1,
-			"revisando": "ok"
-		},
-		{
-			"id": 3,
-			"revisando": "no ok"
-		}
-	],
+	"multa": {
+		"idMulta": 2169776941794591879,
+		"identificador": 70072500,
+		"periodo": 201911,
+		"nombreEntidad": "INST. HNAS. CARMELITAS STA. TERESA DE JESUS",
+		"fechaCreacion": "04-11-2019 00:00:00",
+		"tipoMulta": "SOSTENEDOR",
+		"estado": "PROCESADA",
+		"usuario": "anamaria.espinoza",
+		"ipUsuario": "10.255.0.2",
+		"detalleMulta": null,
+		"listadoDetalleMulta": null,
+		"historiaEstablecimiento": [
+			{
+				"idEstablecimiento": 2169776941828146313,
+				"identificador": 8942,
+				"observacion": "0",
+				"montoSubvencionBase": 0,
+				"incrementoZona": 0,
+				"ficom": null,
+				"accion": "INGRESA",
+				"tipoDependencia": "Particular Subvencionado",
+				"region": "METROPOLITANA DE SANTIAGO",
+				"deprov": "Sur",
+				"comuna": "SAN BERNARDO",
+				"codigoRegion": 13,
+				"nombreEstablecimiento": "ESCUELA PARTICULAR TERESIANA DE SAN JOSE",
+				"nombreSostenedor": "INST. HNAS. CARMELITAS STA. TERESA DE JESUS",
+				"usuario": "anamaria.espinoza",
+				"ipUsuario": "10.255.0.2",
+				"fechaCreacion": "04-11-2019 11:26:29",
+				"numero": 1,
+				"idMultas": 2169776941794591879
+			},
+			{
+				"idEstablecimiento": 2169776941853312138,
+				"identificador": 8623,
+				"observacion": "0",
+				"montoSubvencionBase": 0,
+				"incrementoZona": 0,
+				"ficom": null,
+				"accion": "INGRESA",
+				"tipoDependencia": "Particular Subvencionado",
+				"region": "METROPOLITANA DE SANTIAGO",
+				"deprov": "Norte",
+				"comuna": "INDEPENDENCIA",
+				"codigoRegion": 13,
+				"nombreEstablecimiento": "ESC. BAS. PART. TERESIANA DE SAN GABRIEL",
+				"nombreSostenedor": "INST. HNAS. CARMELITAS STA. TERESA DE JESUS",
+				"usuario": "anamaria.espinoza",
+				"ipUsuario": "10.255.0.2",
+				"fechaCreacion": "04-11-2019 11:26:29",
+				"numero": 1,
+				"idMultas": 2169776941794591879
+			}
+		],
+		"historiaDetalleMulta": [
+			{
+				"idDetalleMulta": 2169776941802980488,
+				"observacion": "",
+				"numero": 1,
+				"fechaResolucion": "21-08-2019 00:00:00",
+				"numeroResolucion": 1271,
+				"fechaRecepcion": "17-10-2019 00:00:00",
+				"fechaNotificacion": "01-01-1900 00:00:00",
+				"multaUtm": 501.0,
+				"accion": "INGRESA",
+				"idMultas": 2169776941794591879,
+				"usuario": "anamaria.espinoza",
+				"ipUsuario": "10.255.0.2",
+				"fechaCreacion": "04-11-2019 11:26:29",
+				"nombreArchivo": "carmeltas.pdf",
+				"origenArchivo": "LOCAL",
+				"annioFechaResolucion": 2019
+			},
+			{
+				"idDetalleMulta": 2171352894916265228,
+				"observacion": "",
+				"numero": 2,
+				"fechaResolucion": "21-08-2019 00:00:00",
+				"numeroResolucion": 1271,
+				"fechaRecepcion": "17-10-2019 00:00:00",
+				"fechaNotificacion": "01-01-1900 00:00:00",
+				"multaUtm": 501.0,
+				"accion": "APRUEBA",
+				"idMultas": 2169776941794591879,
+				"usuario": "gustavo.celis",
+				"ipUsuario": "10.255.0.2",
+				"fechaCreacion": "06-11-2019 15:37:37",
+				"nombreArchivo": "carmeltas.pdf",
+				"origenArchivo": "LOCAL",
+				"annioFechaResolucion": 2019
+			},
+			{
+				"idDetalleMulta": 2171917731325019460,
+				"observacion": "",
+				"numero": 3,
+				"fechaResolucion": "21-08-2019 00:00:00",
+				"numeroResolucion": 1271,
+				"fechaRecepcion": "17-10-2019 00:00:00",
+				"fechaNotificacion": "01-01-1900 00:00:00",
+				"multaUtm": 501.0,
+				"accion": "PROCESA",
+				"idMultas": 2169776941794591879,
+				"usuario": "marias.carrasco",
+				"ipUsuario": "10.255.0.2",
+				"fechaCreacion": "07-11-2019 10:19:42",
+				"nombreArchivo": "",
+				"origenArchivo": "",
+				"annioFechaResolucion": 2019
+			}
+		]
+	},
 	"profile": {
 		"name": "typicode"
 	}
