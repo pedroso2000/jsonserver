@@ -1,17 +1,19 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "get":[
-    {
-      "id":1,
-      "revisando":"ok"
-    }
-   ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+			"id": 1,
+			"title": "hello"
+		}
+	],
+	"get": [{
+			"id": 1,
+			"revisando": "ok"
+		},
+		{
+			"id": 3,
+			"revisando": "no ok"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
